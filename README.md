@@ -1,4 +1,6 @@
 Component Painting
+
+```
 <div>
   <img src="" alt="" width="480" />
   <h2></h2>
@@ -7,33 +9,45 @@ Component Painting
   <p>Accessibility end  or in stock</p>
   <button type="button">Add to Shopping Cart</button>
 </div>
+```
 
 
 
-Compopent PaintingList
+Component PaintingList
+
+```
 <ul>
   <li>Painting</li>
   ...
 </ul>
+```
 
 
 
 Component Section
+
+```
 <div style="outline: 1px solid tomato;">
   <h2></h2>
   Content
 </div>
+```
 
-<!-- ///////////   Segunda tarea ////////// -->
+ ///////////   Segunda tarea ////////// 
 
 Component RecipeCard
+
+```
 <ul>
   <li>RecipeCard</li>
   ...
 </ul>
+```
 
 
 Component RecipeCard
+
+```
 <div>
       <img src="" alt="" width="240" />
       <h2></h2>
@@ -54,6 +68,7 @@ Component RecipeCard
       <div>
         <h3>Difficulty</h3>
         <div>
+```
           <p> calories</p>
         </div>
       </div>
